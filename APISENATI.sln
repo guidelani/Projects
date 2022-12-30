@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APISENATI", "APISENATI\APISENATI.csproj", "{844AF4FF-887D-46C4-8B5D-EEF40BE4E6C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonModel", "PersonModel\PersonModel.csproj", "{260819D8-CCFD-4695-A111-5B485FD20698}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{844AF4FF-887D-46C4-8B5D-EEF40BE4E6C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844AF4FF-887D-46C4-8B5D-EEF40BE4E6C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844AF4FF-887D-46C4-8B5D-EEF40BE4E6C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844AF4FF-887D-46C4-8B5D-EEF40BE4E6C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{260819D8-CCFD-4695-A111-5B485FD20698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260819D8-CCFD-4695-A111-5B485FD20698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260819D8-CCFD-4695-A111-5B485FD20698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260819D8-CCFD-4695-A111-5B485FD20698}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDF03F7F-5139-4D1C-ACB1-51A3A365B0C0}
+	EndGlobalSection
+EndGlobal
